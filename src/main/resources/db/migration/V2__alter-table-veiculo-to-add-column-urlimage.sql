@@ -1,0 +1,2 @@
+ALTER TABLE veiculo
+ADD COLUMN url_image VARCHAR(255);
